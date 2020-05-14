@@ -23,24 +23,24 @@ A python program where you can play a text-based Tic-Tac-Toe game with an AI wit
 
 # Game Sample
 
-> Input command: start user easy
-
+- > Input command: start user easy
+-
 ---------
 |       |
 |       |
 |       |
 ---------
-
-> Enter the coordinates: 1 1
-
+-
+- > Enter the coordinates: 1 1
+-
 ---------
 |       |
 |       |
 | X     |
 ---------
-
-Making move level "easy"
-
+-
+- Making move level "easy"
+-
 ---------
 |       |
 |   O   |
