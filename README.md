@@ -21,29 +21,9 @@ A python program where you can play a text-based Tic-Tac-Toe game with an AI wit
 - (1, 2) (2, 2) (3, 2)
 - (1, 1) (2, 1) (3, 1)
 
-# Game Sample
+# Sample Command Lines
 
 - > Input command: start user easy
--
----------
-|       |
-|       |
-|       |
----------
--
 - > Enter the coordinates: 1 1
--
----------
-|       |
-|       |
-| X     |
----------
--
-- Making move level "easy"
--
----------
-|       |
-|   O   |
-| X     |
----------
+
 
