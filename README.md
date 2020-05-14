@@ -4,7 +4,7 @@ A python program where you can play a text-based Tic-Tac-Toe game with an AI wit
 
 # What I Learned
 
-- OOP (special methods, class attributes)
+- OOP (special methods, methods, instance attributes)
 - String Formatting
 - Implementing the minimax algorithm using Recursion
 
