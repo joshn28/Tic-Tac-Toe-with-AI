@@ -23,7 +23,7 @@ A python program where you can play a text-based Tic-Tac-Toe game with an AI wit
 
 # Sample Command Lines
 
-- > Input command: start user easy
+- > Input command: start user easy # start the game with player starting first easy ai starting second
 - > Enter the coordinates: 1 1
 
 
